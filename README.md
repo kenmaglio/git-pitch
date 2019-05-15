@@ -4,15 +4,7 @@
 
 I hope you enjoy!
 
-### Listing of all Presentations
-
-#### STLPSUG - St. Louis PowerShell User Group
-
-[The Organizers](https://gitpitch.com/kenmaglio/git-pitch/master?p=stlpsug/greeting)
-
-*Presentations*
-- [VSCode Tips and Tricks](https://gitpitch.com/kenmaglio/git-pitch/master?p=stlpsug/vscode-tips-and-tricks)
-
+Please make sure [view the latest listing page]([https://](https://github.com/kenmaglio/git-pitch/blob/master/LISTING.md)) of all presentations.
 
 ---
 
