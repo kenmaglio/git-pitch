@@ -2,7 +2,5 @@
 
 ## Tips And Tricks
 
-
-
 ---
 # Test
