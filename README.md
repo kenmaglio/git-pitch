@@ -2,9 +2,16 @@
 
 # GitPitch Presentations
 
-To open any presentation please do so from the [listing of all presentations](https://github.com/kenmaglio/git-pitch/blob/master/LISTING.md) page.
-
 I hope you enjoy!
+
+### Listing of all Presentations
+
+#### STLPSUG - St. Louis PowerShell User Group
+
+- [VSCode Tips and Tricks](https://gitpitch.com/kenmaglio/git-pitch/?p=stlpsug/vscode-tips-and-tricks)
+
+
+
 
 ---
 

@@ -6,5 +6,5 @@
 
 ### To actually see presentations...
 
-#### Please view the [LISTING](https://github.com/kenmaglio/git-pitch/blob/master/LISTING.md) page.
+#### Please view the [README](https://github.com/kenmaglio/git-pitch) github page.
 
