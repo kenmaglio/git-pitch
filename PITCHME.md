@@ -17,17 +17,6 @@ https://gitpitch.com/kenmaglio/git-pitch/stlpsug_vscode-tips-and-tricks#/
 @snapend
 
 ---
-@title[Slide Markdown]
-
-### Each slide in this presentation is provided as a *template*.
-
-<br><br>
-
-@snap[south span-100 text-purple text-05]
-Reuse the *markdown snippet* for any slide in this template within your own @css[text-gold text-bold](PITCHME.md) files.
-@snapend
-
----
 @title[Tip! Fullscreen]
 
 ![TIP](template/img/tip.png)
