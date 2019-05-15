@@ -1,6 +1,7 @@
-# VSCode Tips And Tricks
+# VSCode 
+## Tips And Tricks
 
----?include=course/common/greeting/PITCHME.md
+---?include=common/greeting/PITCHME.md
 
 ---
 # Test
