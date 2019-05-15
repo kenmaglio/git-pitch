@@ -1,10 +1,10 @@
----?color=linear-gradient(to right, #c02425, #f0cb35)
+---?color=linear-gradient(to right, #5CCCCC, #FF7400)
 @title[Introduction]
 
 @snap[west text-25 text-bold text-white]
-GitPitch<br>*The Template*
+VSCODE<br>*Tips and Tricks*
 @snapend
 
 @snap[south-west byline text-white text-06]
-The Fastest Way From Idea To Presentation.
+https://gitpitch.com/kenmaglio/git-pitch/stlpsug_vscode-tips-and-tricks#/
 @snapend
