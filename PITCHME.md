@@ -3,19 +3,8 @@
 ## Presentations by Ken Maglio
 
 ---
-@title[Presentations Per Branch]
 
-@snap[west span-60]
-@ul[spaced text-white]
-- Presentations per branch
-  - organization_presentation-title naming
-- example: stlpsug_vscode-tips-tricks
-- Each branch's ReadMe will have link to the presentation
+### This is just some default presentation I had to make...
 
-@ulend
-@snapend
-
-@snap[east span-40]
-![](assets/img/conference.png)
-@snapend
+#### Please view the [LISTING](https://github.com/kenmaglio/git-pitch/blob/master/LISTING.md) page.
 
