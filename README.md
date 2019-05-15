@@ -4,7 +4,7 @@
 
 You can open the current presentation [**here**](https://gitpitch.com/kenmaglio/git-pitch/master).
 
-If you want to see all presentations, you can go to the [listing of all presentations](/blob/master/LISTING.md).
+If you want to see all presentations, you can go to the [listing of all presentations](https://github.com/kenmaglio/git-pitch/blob/master/LISTING.md).
 
 I hope you enjoy!
 
