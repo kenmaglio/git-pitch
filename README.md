@@ -4,7 +4,7 @@
 
 I hope you enjoy!
 
-Please make sure [view the latest listing page]([https://](https://github.com/kenmaglio/git-pitch/blob/master/LISTING.md)) of all presentations.
+Please make sure [view the latest listing page](https://github.com/kenmaglio/git-pitch/blob/master/LISTING.md) of all presentations.
 
 ---
 
