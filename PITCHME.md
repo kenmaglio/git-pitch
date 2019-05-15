@@ -4,7 +4,7 @@
 
 ---
 
-### This is just some default presentation I had to make...
+### To actually see presentations...
 
 #### Please view the [LISTING](https://github.com/kenmaglio/git-pitch/blob/master/LISTING.md) page.
 
