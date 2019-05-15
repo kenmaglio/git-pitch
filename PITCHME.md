@@ -24,6 +24,8 @@ https://gitpitch.com/kenmaglio/git-pitch/stlpsug_vscode-tips-and-tricks#/
 For the best viewing experience, press F for fullscreen.
 @css[template-note](We recommend using the *SPACE* key to navigate between slides.)
 
+---?include=template/md/customize/PITCHME.md
+
 ---?include=template/md/split-screen/PITCHME.md
 
 ---?include=template/md/sidebar/PITCHME.md
@@ -48,13 +50,3 @@ For the best viewing experience, press F for fullscreen.
 
 ---?include=template/md/wrap-up/PITCHME.md
 
----?image=template/img/presenter.jpg
-@title[The Template Docs]
-
-@snap[west sign-off]
-### Now it's your turn.
-@snapend
-
-@snap[south docslink text-gold span-100]
-For supporting documentation see the [The Template Docs](https://gitpitch.com/docs/the-template)
-@snapend
