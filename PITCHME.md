@@ -1,21 +1,27 @@
-# Let's Get Started
+# Let's Go!
+
+## Presentations by Ken Maglio
 
 ---
-
-## Add Some Slide Candy
-
-![](assets/img/presentation.png)
-
----
-@title[Customize Slide Layout]
+@title[Presentations Per Branch]
 
 @snap[west span-50]
-## Customize Slide Content Layout
+@ul[spaced text-white]
+- Presentations per branch
+  - organization_presentation-title naming
+- example: stlpsug_vscode-tips-tricks
+- Each branch's ReadMe will have link to the presentation
+
+@ulend
 @snapend
 
 @snap[east span-50]
-![](assets/img/presentation.png)
+![](assets/img/conference.png)
 @snapend
+
+
+
+
 
 ---?color=#E58537
 @title[Add A Little Imagination]

@@ -1,5 +1,3 @@
-# GitPitch In-60-Seconds - A Very Short Tutorial.
-#
 
 #
 # Theme Setting
@@ -42,6 +40,6 @@ published : true
 # Twitter Card Settings [Pro Only]
 # Doc: https://gitpitch.com/docs/settings/twitter-card
 #
-title : "GitPitch In 60 Seconds"
-description : "A short tutorial introducing the power and simplicity of GitPitch, the markdown presentation service on Git."
+title : "GitPitch Presentations by Ken Maglio"
+description : "Presentations by Ken Maglio for various organizations"
 thumbnail : https://gitpitch.com/gpimg/tutorial-thumb.png
