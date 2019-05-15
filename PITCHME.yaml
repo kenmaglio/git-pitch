@@ -16,17 +16,23 @@ published : true
 theme : simple
 
 #
+# Theme-Override Setting
+# Doc: https://gitpitch.com/docs/settings/custom-theme
+#
+theme-override : template/css/PITCHME.css
+
+#
 # Logo Setting
 # https://gitpitch.com/docs/settings/logo
 #
-logo : assets/img/kenmaglio.png
+logo : template/img/logo.png
 logo-position : top-left
 
 #
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "Powered By GitPitch - Content Copyrighted by Ken Maglio"
+footnote : "GitPitch - The Fastest Way From Idea To Presentation"
 
 #
 # Highlight (Code) Setting
@@ -47,3 +53,11 @@ layout : center
 # https://gitpitch.com/docs/layout-features/snap-layout-slide-transitions
 #
 transition : none
+
+#
+# Twitter Card Settings
+# Doc: https://gitpitch.com/docs/settings/twitter-card
+#
+title : "GitPitch - The Quickstart Template"
+description : "High-utility markdown slide templates for GitPitch presentation authors."
+thumbnail : https://gitpitch.com/gpimg/the-template-thumb.jpg

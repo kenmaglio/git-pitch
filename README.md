@@ -1,11 +1,8 @@
-[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/gitpitch/in-60-seconds/master?grs=github)
+[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/gitpitch/the-template)
 
-# GitPitch Presentations
+# GitPitch - The Template
 
-I hope you enjoy!
+*THE FASTEST WAY FROM IDEA TO PRESENTATION*
 
-Please make sure [view the latest listing page](https://github.com/kenmaglio/git-pitch/blob/master/LISTING.md) of all presentations.
+For details, see the complete template documentation [here](https://gitpitch.com/docs/the-template).
 
----
-
-Like how this presentation is displayed??? I hope so, GitPitch is amazing. Want to build these presentations yourself, you can see how [here](https://gitpitch.com/docs/getting-started/tutorial).
