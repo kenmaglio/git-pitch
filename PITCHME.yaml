@@ -1,45 +1,13 @@
-
-#
-# Theme Setting
-# Doc: https://gitpitch.com/docs/settings/theme
-#
-theme : moon
-
-#
-# Theme-Override Setting
-# Doc: https://gitpitch.com/docs/settings/custom-theme
-#
-theme-override: assets/css/PITCHME.css
-
-#
 # Logo Setting
 # https://gitpitch.com/docs/settings/logo
 #
 logo : assets/img/kenmaglio.png
 logo-postion : top-left
 
-#
-# Layout Setting
-# Doc: https://gitpitch.com/docs/settings/layout
-#
-layout : center
 
 #
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "GitPitch - The Fastest Way From Idea To Presentation"
+footnote : "Powered By GitPitch - Copyright by Ken Maglio"
 
-#
-# Published Setting
-# Doc: https://gitpitch.com/docs/settings/published
-#
-published : true
-
-#
-# Twitter Card Settings [Pro Only]
-# Doc: https://gitpitch.com/docs/settings/twitter-card
-#
-title : "GitPitch Presentations by Ken Maglio"
-description : "Presentations by Ken Maglio for various organizations"
-thumbnail : https://gitpitch.com/gpimg/tutorial-thumb.png
