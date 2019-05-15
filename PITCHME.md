@@ -6,7 +6,7 @@
 @title[Presentations Per Branch]
 
 @snap[west span-50]
-@ul[spaced text-white]
+@ul[spaced text-black]
 - Presentations per branch
   - organization_presentation-title naming
 - example: stlpsug_vscode-tips-tricks

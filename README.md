@@ -1,10 +1,8 @@
 [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/gitpitch/in-60-seconds/master?grs=github)
 
-# Presentation Title
+# GitPitch Presentations
 
-You can open the current presentation [**here**](https://gitpitch.com/kenmaglio/git-pitch/master).
-
-If you want to see all presentations, you can go to the [listing of all presentations](https://github.com/kenmaglio/git-pitch/blob/master/LISTING.md).
+To open any presentation please do so from the [listing of all presentations](https://github.com/kenmaglio/git-pitch/blob/master/LISTING.md) page.
 
 I hope you enjoy!
 
