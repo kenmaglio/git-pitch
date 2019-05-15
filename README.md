@@ -8,7 +8,7 @@ I hope you enjoy!
 
 #### STLPSUG - St. Louis PowerShell User Group
 
-- [VSCode Tips and Tricks](https://gitpitch.com/kenmaglio/git-pitch/?p=stlpsug/vscode-tips-and-tricks)
+- [VSCode Tips and Tricks](https://gitpitch.com/kenmaglio/git-pitch/master?p=stlpsug/vscode-tips-and-tricks)
 
 
 
