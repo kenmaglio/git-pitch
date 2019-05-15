@@ -3,6 +3,12 @@
 
 ## Organizers
 
-![Mike](assets/img/mike.png =100x)
+| Mike | Ken |
+|:-:|:-:|
+| ![Mike](assets/img/mike.png) | ![Ken](assets/img/ken.png) |
 
-![Ken](assets/img/ken.png =100x)
+## Sponsors
+
+| WWT | Model |
+|:-:|:-:|
+| ![Mike](assets/img/wwt.png) | ![Ken](assets/img/model.png) |
