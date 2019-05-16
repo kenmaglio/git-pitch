@@ -10,7 +10,7 @@ Customizing VS Code
 @snapend
 
 +++?image=template/img/bg/black.jpg&position=left&size=70% 100%
-@title[Heading + List Body]
+@title[Make It Your Own]
 
 @snap[east text-17 text-bold text-black span-50]
 Make<br>It<br>Your<br>Own
