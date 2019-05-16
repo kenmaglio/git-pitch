@@ -13,7 +13,7 @@
 @size[1.5em](Meet The Team)
 @snapend
 
-@snap[west about-team-pic]
+@snap[west]
 ![Mike](template/img/profile/mike.png)
 @snapend
 
@@ -25,7 +25,7 @@
 Organizer
 @snapend
 
-@snap[east about-team-pic]
+@snap[east]
 ![Ken](template/img/profile/ken.png)
 @snapend
 
@@ -45,7 +45,7 @@ Organizer
 @size[1.5em](Meet The Sponsors)
 @snapend
 
-@snap[west about-team-pic]
+@snap[west]
 ![WWT](template/img/profile/wwt.png)
 @snapend
 
@@ -53,7 +53,7 @@ Organizer
 @color[#4487F2](WWT)
 @snapend
 
-@snap[east about-team-pic]
+@snap[east]
 ![Model](template/img/profile/model.png)
 @snapend
 
