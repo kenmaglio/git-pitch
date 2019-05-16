@@ -16,7 +16,7 @@ Customizing VS Code
 Make<br>It<br>Your<br>Own
 @snapend
 
-@snap[west text-white span-65]
+@snap[west text-white span-35]
 @ul[split-screen-list text-08](false)
 - Extensions
   - Must have extensions
