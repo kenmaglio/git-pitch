@@ -1,4 +1,4 @@
----?image=template/img/pencils.jpg
+---?image=template/img/vscode.png
 @title[Customizing VSCode]
 
 ## @color[black](Customizing<br>VSCode)

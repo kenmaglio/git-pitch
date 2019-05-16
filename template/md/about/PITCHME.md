@@ -1,12 +1,4 @@
----?image=template/img/pencils.jpg
-@title[About STLPSUG]
-
-## @color[black](About<br>STLPSUG)
-
-@fa[arrow-down text-black]
-
-
-+++?image=template/img/bg/blue.jpg&color=white&position=top&size=100% 50%
+---?image=template/img/bg/blue.jpg&color=white&position=top&size=100% 50%
 @title[Meet The Team]
 
 @snap[north text-white span-100]
