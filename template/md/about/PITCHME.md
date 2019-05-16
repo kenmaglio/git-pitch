@@ -14,7 +14,7 @@
 @snapend
 
 @snap[west about-team-pic]
-![WENDY](template/img/profile/mike.png)
+![Mike](template/img/profile/mike.png)
 @snapend
 
 @snap[south-west text-06]
@@ -26,7 +26,7 @@ Organizer
 @snapend
 
 @snap[east about-team-pic]
-![BERRY](template/img/profile/ken.png)
+![Ken](template/img/profile/ken.png)
 @snapend
 
 @snap[south-east text-06]
@@ -46,17 +46,17 @@ Organizer
 @snapend
 
 @snap[west about-team-pic]
-![WENDY](template/img/profile/wwt.png)
+![WWT](template/img/profile/wwt.png)
 @snapend
 
-@snap[south-west text-06]
+@snap[south-west text-12]
 @color[#4487F2](WWT)
 @snapend
 
 @snap[east about-team-pic]
-![BERRY](template/img/profile/model.png)
+![Model](template/img/profile/model.png)
 @snapend
 
-@snap[south-east text-06]
+@snap[south-east text-12]
 @color[#4487F2](Model Technologies)
 @snapend
