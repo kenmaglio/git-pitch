@@ -1,4 +1,4 @@
----?image=template/img/vscode.jpg
+---?image=template/img/vscode.png
 @title[Wrap-Up]
 
 ## @color[white](Wrap-Up)
