@@ -18,8 +18,23 @@ Top<br>Tips!
 
 @snap[west text-white span-65]
 @ul[split-screen-list text-08](false)
-- Extensions: this is how capabilities are extended
-- Themes: make it your own
+- Extensions
+  - Must have extensions
+- Themes
+- Settings.json
+
 @ulend
 @snapend
 
+Note:
+- Must have extensions
+  - Settings Sync
+  - Alignment
+  - GitLens
+  - Markdown All in One
+  - Markdown Preview Github
+  - Auto-Open Markdown Preview
+  - ToDo Tree
+  - Spell Right
+- Settings
+  - workbench.settings.editor = "json"
