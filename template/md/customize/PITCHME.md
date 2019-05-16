@@ -1,9 +1,9 @@
 ---?image=template/img/vscode.png
 @title[Customizing VSCode]
 
-## @color[black](Customizing<br>VSCode)
+## @color[white](Customizing<br>VSCode)
 
-@fa[arrow-down text-black]
+@fa[arrow-down text-white]
 
 @snap[south docslink span-50]
 Customizing VS Code
