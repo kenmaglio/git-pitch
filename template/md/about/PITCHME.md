@@ -1,13 +1,9 @@
 ---?image=template/img/pencils.jpg
-@title[About Templates]
+@title[About STLPSUG]
 
-## @color[black](About<br>Slide Templates)
+## @color[black](About<br>STLPSUG)
 
 @fa[arrow-down text-black]
-
-@snap[south docslink span-50]
-[The Template Docs](https://gitpitch.com/docs/the-template)
-@snapend
 
 
 +++?image=template/img/bg/blue.jpg&color=white&position=top&size=100% 50%
@@ -18,58 +14,49 @@
 @snapend
 
 @snap[west about-team-pic]
-![WENDY](template/img/profile/wendy.jpg)
+![WENDY](template/img/profile/mike.png)
 @snapend
 
 @snap[south-west text-06]
-@color[#4487F2](Wendy Sesay)
+@color[#4487F2](Mike)
 <br><br>
-@fa[twitter](wendy)
+@fa[twitter](barbariankb)
 <br>
-Graphic Designer
-@snapend
-
-@snap[midpoint about-team-pic about-team-pic-center]
-![ABBY](template/img/profile/abby.jpg)
-@snapend
-
-@snap[south text-06]
-@color[#4487F2](Abby Bauer)
-<br><br>
-@fa[github](abbycode)
-<br>
-Lead Developer
+Organizer
 @snapend
 
 @snap[east about-team-pic]
-![BERRY](template/img/profile/berry.jpg)
+![BERRY](template/img/profile/ken.png)
 @snapend
 
 @snap[south-east text-06]
-@color[#4487F2](Berry Nguyen)
+@color[#4487F2](Ken)
 <br><br>
-@fa[linkedin](berryngu)
+@fa[linkedin](kenmaglio)
 <br>
-Channel Marketing
+Organizer
 @snapend
 
-@snap[north-east template-note text-white]
-Team intro template.
+
++++?image=template/img/bg/blue.jpg&color=white&position=top&size=100% 50%
+@title[Meet The Sponsors]
+
+@snap[north text-white span-100]
+@size[1.5em](Meet The Sponsors)
 @snapend
 
-+++?image=template/img/lovelace.jpg&position=right&size=42% 65%
-@title[Personal Biography]
-
-@snap[north-west bio-name]
-Ada Lovelace
+@snap[west about-team-pic]
+![WENDY](template/img/profile/wwt.png)
 @snapend
 
-@snap[west text-08 span-60]
-A gifted mathematician. Born 1815.
-<br><br>
-Inspired by Babbage’s Analytical Engine she imagined the modern-day, general-purpose computer back in 1843.<br><br>Ada is now recognized as the first computer programmer.
+@snap[south-west text-06]
+@color[#4487F2](WWT)
 @snapend
 
-@snap[south-west template-note text-gray]
-Simple biography template.
+@snap[east about-team-pic]
+![BERRY](template/img/profile/model.png)
+@snapend
+
+@snap[south-east text-06]
+@color[#4487F2](Model Technologies)
 @snapend
