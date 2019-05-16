@@ -28,5 +28,11 @@ For the best viewing experience, press F for fullscreen.
 
 ---?include=template/md/customize/PITCHME.md
 
+---?include=template/md/git/PITCHME.md
+
+---?include=template/md/debugging/PITCHME.md
+
+---?include=template/md/cursor/PITCHME.md
+
 ---?include=template/md/wrap-up/PITCHME.md
 
