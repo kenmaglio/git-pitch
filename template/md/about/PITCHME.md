@@ -49,7 +49,7 @@ Organizer
 ![WWT](template/img/profile/wwt.png)
 @snapend
 
-@snap[south-west text-12]
+@snap[south-west center text-12]
 @color[#4487F2](WWT)
 @snapend
 
@@ -57,6 +57,6 @@ Organizer
 ![Model](template/img/profile/model.png)
 @snapend
 
-@snap[south-east text-12]
+@snap[south-east center text-12]
 @color[#4487F2](Model Technologies)
 @snapend
