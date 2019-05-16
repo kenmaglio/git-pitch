@@ -37,4 +37,30 @@ Note:
   - ToDo Tree
   - Spell Right
 - Settings
-  - workbench.settings.editor = "json"
+
+```json
+  "workbench.settings.editor": "json",
+
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.renderIndentGuides": true,
+  "editor.renderWhitespace":"boundary",
+  "editor.minimap.enabled": false,
+  "editor.fontLigatures": true,
+  "editor.fontFamily": "Fira Code",
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.copyWithSyntaxHighlighting": false,
+  "editor.mouseWheelZoom": true,
+  "editor.suggestSelection": "recentlyUsed",
+  "editor.tabSize": 2,
+  "editor.find.autoFindInSelection": true,
+
+  "terminal.integrated.fontFamily": "Fira Code",
+
+  "files.autoSave": "onFocusChange",
+
+  "git.autofetch": true,
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+  "git.defaultCloneDirectory": "C:\\_git",
+
+```
