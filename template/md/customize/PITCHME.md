@@ -5,7 +5,7 @@
 
 @fa[arrow-down text-white]
 
-@snap[south docslink span-50]
+@snap[south docslink span-50 text-white]
 Customizing VS Code
 @snapend
 
