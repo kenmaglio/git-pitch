@@ -13,7 +13,7 @@ Customizing VS Code
 @title[Heading + List Body]
 
 @snap[east text-17 text-bold text-black span-50]
-Top<br>Tips!
+Make<br>It<br>Your<br>Own
 @snapend
 
 @snap[west text-white span-65]
