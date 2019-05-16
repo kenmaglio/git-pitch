@@ -19,7 +19,7 @@
 
 @snap[south-west text-06]
 @color[#4487F2](Mike)
-<br><br>
+<br>
 @fa[twitter](barbariankb)
 <br>
 Organizer
@@ -31,8 +31,8 @@ Organizer
 
 @snap[south-east text-06]
 @color[#4487F2](Ken)
-<br><br>
-@fa[linkedin](kenmaglio)
+<br>
+@fa[twitter](kenmaglio)
 <br>
 Organizer
 @snapend
